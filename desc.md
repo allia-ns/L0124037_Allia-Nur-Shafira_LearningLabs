@@ -1,0 +1,2 @@
+# Proyek Website Napoli
+Website ini menyajikan gambaran tentang sejarah, geografi, dan destinasi wisata utama di Napoli. Terdapat berbagai bagian yang membahas tempat-tempat terkenal, situs bersejarah, dan atraksi populer, menjadikannya panduan untuk memahami tempat-tempat penting dan warisan budaya kota ini. Dibuat menggunakan HTML, CSS, dan JavaScript, situs ini memiliki menu interaktif, tata letak yang terorganisir, serta elemen desain responsif.
